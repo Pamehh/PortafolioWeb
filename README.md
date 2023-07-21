@@ -10,23 +10,15 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web](portafolioSS1.png)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](portafolioSS2.png)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
-
-Testimonios:
-
-![Testimonios](imagenes/screenshot4.png)
-
-Contacto:
-
-![Contacto](imagenes/screenshot5.png)
+![Proyectos](imagenes/portafolioSS3.png)
 
 ## Tecnologías
 
@@ -43,6 +35,9 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
+Si te interesa colaborar en proyectos futuros, tienes alguna pregunta o simplemente quieres conectarte, no dudes en contactarme. Estoy emocionado de conocer nuevas personas y explorar posibles colaboraciones en el campo del desarrollo web.
+
+¡Gracias por visitar mi repositorio! Espero que disfrutes explorando mis proyectos y que encuentres inspiración en mi trabajo.
 
 
 
